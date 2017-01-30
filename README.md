@@ -1,6 +1,4 @@
 # hello-world2
-Noobs learning repository
-
 
 Name : xxxxx
 Date : 30/01/2017
